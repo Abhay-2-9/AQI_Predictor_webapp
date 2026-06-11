@@ -31,7 +31,9 @@ The model predicts AQI using the available data and can handle missing pollutant
 
 ## Dataset
 
-Air quality data from 26 Indian cities (2015–2020).
+
+This project uses historical air quality data collected from 26 Indian cities between 2015 and 2020. After cleaning and preprocessing the data, it was used to train the AQI prediction model. The cleaned dataset used in this project is included in this repository as `city_day_training_data.csv`.
+
 
 ---
 
