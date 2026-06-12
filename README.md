@@ -6,6 +6,10 @@ A machine learning web app that predicts the Air Quality Index (AQI) for Indian 
 
 https://india-aqi-predictor.streamlit.app/
 
+## Important Note
+
+This application is deployed using Streamlit Community Cloud's free hosting plan. The app may automatically go to sleep after periods of inactivity. If you encounter a "This app has gone to sleep" message, simply click **"Yes, get this app back up!"** and wait a few seconds for it to restart.
+
 ## About
 
 I built this project to explore whether AQI can still be estimated when some pollutant readings are missing. In real life, sensors don't always work perfectly, but air quality information is still important.
